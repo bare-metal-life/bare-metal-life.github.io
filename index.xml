@@ -2,164 +2,171 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My Bare Metal Life</title>
-    <link>http://localhost:1313/</link>
+    <link>http://blog.abnormal-intelligence.com/</link>
     <description>Recent content on My Bare Metal Life</description>
     <generator>Hugo</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 23 Jul 2024 19:16:55 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Jul 2024 13:48:10 +0700</lastBuildDate>
+    <atom:link href="http://blog.abnormal-intelligence.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stochastic Productivity and ADHD</title>
+      <link>http://blog.abnormal-intelligence.com/posts/stochastic-productivity/</link>
+      <pubDate>Wed, 24 Jul 2024 13:48:10 +0700</pubDate>
+      <guid>http://blog.abnormal-intelligence.com/posts/stochastic-productivity/</guid>
+      <description>My last article was about exponential productivity. This one is about another kind of productivity that goes along with a typical person with ADHD.&#xA;If you do a Google search about freelancing with ADHD, there are sorts of tips about time management, pomodoro, reducing distractions etc.&#xA;The problem with these is that the ADHD is treated as a monster that needs to be tamed. It&amp;rsquo;s much better to go with it and use it as a strength &amp;hellip; which is why I have coined the term Stochastic Productivity.</description>
+    </item>
     <item>
       <title>Exponential Productivity</title>
-      <link>http://localhost:1313/posts/productivity/</link>
+      <link>http://blog.abnormal-intelligence.com/posts/productivity/</link>
       <pubDate>Tue, 23 Jul 2024 19:16:55 +0700</pubDate>
-      <guid>http://localhost:1313/posts/productivity/</guid>
+      <guid>http://blog.abnormal-intelligence.com/posts/productivity/</guid>
       <description>Exponential Productivity I am a freelancer, digital nomad, and sometimes an entrepreneur. As such, I am often required to account for my time to a client using the dreaded Timesheet. I always have a problem with this because:&#xA;I DO NOT KNOW HOW TO MEASURE THE TIME I SPEND ON A PROJECT!&#xA;And suddenly, recently, I understood why &amp;hellip; because of a passing comment by my Russian teacher in one of her episodes about her life as a teacher, student and as a Russian outside Russia.</description>
     </item>
     <item>
       <title>Harmony</title>
-      <link>http://localhost:1313/posts/harmony/</link>
+      <link>http://blog.abnormal-intelligence.com/posts/harmony/</link>
       <pubDate>Tue, 14 May 2024 09:02:58 +0700</pubDate>
-      <guid>http://localhost:1313/posts/harmony/</guid>
+      <guid>http://blog.abnormal-intelligence.com/posts/harmony/</guid>
       <description>This month has taken me far out of my comfort zone. I have been dealing with property transactions, tax matters, renovations, and other financial issues in three different jurisdictions. I have had many sleepless nights composing plans, letters to solicitors, accountants, tax departments etc. Because of my situation, I am dealing with English, Thai and Russian professionals.&#xA;I am coming back to my comfort zone, and in doing so, I have done some &amp;lsquo;inner work&amp;rsquo; about understanding my motivations in life.</description>
     </item>
     <item>
       <title>More Thoughts on Language</title>
-      <link>http://localhost:1313/posts/language/</link>
+      <link>http://blog.abnormal-intelligence.com/posts/language/</link>
       <pubDate>Sat, 02 Dec 2023 08:12:08 +0700</pubDate>
-      <guid>http://localhost:1313/posts/language/</guid>
+      <guid>http://blog.abnormal-intelligence.com/posts/language/</guid>
       <description>More thoughts on language &amp;ndash; In which I describe some observations about how people use foreign languages, and explain my motivation for learning Thai and Russian.&#xA;This post was inspired by a video produced by Maria, my Russian phonetics coach. She described three types of Russian language learner:&#xA;The linguistic sportsman who conquers languages in the way Genghis Khan conquered territory The person who in everyday life is Roger but in his heart is Dostoevsky &amp;ndash; who is in love with the &amp;ldquo;Russian Soul&amp;rdquo; The &amp;lsquo;spy&amp;rsquo;, who lives among Russians and who wants to sound like a native when he speaks.</description>
     </item>
     <item>
       <title>Bosnia i Hercegovina</title>
-      <link>http://localhost:1313/posts/bosnia-i-hercegovina/</link>
+      <link>http://blog.abnormal-intelligence.com/posts/bosnia-i-hercegovina/</link>
       <pubDate>Sat, 26 Aug 2023 07:11:42 +0700</pubDate>
-      <guid>http://localhost:1313/posts/bosnia-i-hercegovina/</guid>
+      <guid>http://blog.abnormal-intelligence.com/posts/bosnia-i-hercegovina/</guid>
       <description>I am writing this on a rooftop in the beautiful city of Mostar, Herzegovina, which was the site of vicious street fighting between Bosniaks and Croats in 1993. I am in a beautifully renovated apartment but the house next door has simply been patched up to accommodate the huge shell hole in its wall.&#xA;In one of the many bookshops here, I picked up Yugoslavia &amp;ndash; My Fatherland by Goran Vojnović.</description>
     </item>
     <item>
       <title>Albania</title>
-      <link>http://localhost:1313/posts/albania/</link>
+      <link>http://blog.abnormal-intelligence.com/posts/albania/</link>
       <pubDate>Thu, 17 Aug 2023 23:51:07 +0700</pubDate>
-      <guid>http://localhost:1313/posts/albania/</guid>
+      <guid>http://blog.abnormal-intelligence.com/posts/albania/</guid>
       <description>I have always had a soft spot for Albania. They always seemed to end up being the underdogs of the Balkans, and also I have only ever had positive interactions with Albanians.&#xA;Albanians have the misfortune to live on the Balkan peninsula at the same time as not being Slavs, Greeks or Turks. They have had to somehow carve out living space for themselves in competition with the Serbs in particular &amp;ndash; the situation in Kosovo being the eventual result.</description>
     </item>
     <item>
       <title>Skopje 2: Infrastructure, Socialism, and Nationalism</title>
-      <link>http://localhost:1313/posts/skopje-2/</link>
+      <link>http://blog.abnormal-intelligence.com/posts/skopje-2/</link>
       <pubDate>Wed, 16 Aug 2023 00:59:01 +0700</pubDate>
-      <guid>http://localhost:1313/posts/skopje-2/</guid>
+      <guid>http://blog.abnormal-intelligence.com/posts/skopje-2/</guid>
       <description>At the end of my last blog post on Skopje and &amp;ldquo;North Macedonia&amp;rdquo; I mentioned the EU, and how I couldn&amp;rsquo;t imagine the people who call themselves &amp;ldquo;Macedonians&amp;rdquo; knuckling down under the supervision of the grey persons of Brussels. Yesterday was a confirmation of my hunch in a way, although not in the way I had expected.&#xA;We chose to take a tour out to a beautiful reservoir called Matka Canyon.</description>
     </item>
     <item>
       <title>Skopje</title>
-      <link>http://localhost:1313/posts/skopje/</link>
+      <link>http://blog.abnormal-intelligence.com/posts/skopje/</link>
       <pubDate>Mon, 14 Aug 2023 02:00:06 +0700</pubDate>
-      <guid>http://localhost:1313/posts/skopje/</guid>
+      <guid>http://blog.abnormal-intelligence.com/posts/skopje/</guid>
       <description>The Cultural Intensity of Skopje Again, my teenage romanticisation of the Balkans is coming into play, and again, Skopje has not disappointed, but has exceeded expectations.&#xA;I am in Skopje now &amp;hellip; and it has revealed to me how much mere book knowledge of a place can in no way replace an actual visit.&#xA;&amp;ldquo;North Macedonia&amp;rdquo; had long puzzled me (and, I must admit, amused me). On paper, it is a place the speaks a dialect of Bulgarian, written with the Serbian version of the Cyrillic alphabet.</description>
     </item>
     <item>
       <title>Sofia</title>
-      <link>http://localhost:1313/posts/sofia/</link>
+      <link>http://blog.abnormal-intelligence.com/posts/sofia/</link>
       <pubDate>Sun, 13 Aug 2023 01:14:39 +0700</pubDate>
-      <guid>http://localhost:1313/posts/sofia/</guid>
+      <guid>http://blog.abnormal-intelligence.com/posts/sofia/</guid>
       <description>So many of my reflections on my experiences while travelling hark back to my longings for travel during my teenage years.&#xA;My High School History teacher was a great story teller. For our &amp;lsquo;O&amp;rsquo; Levels, the period of study was 1789 to 1914: political history during the time of the destruction of the ancien régime in Europe and the development of Nationalism as a new political ideology &amp;hellip; hence my fascination with its revival in the lands of the former Communist Bloc.</description>
     </item>
     <item>
       <title>Mystery</title>
-      <link>http://localhost:1313/posts/mystery/</link>
+      <link>http://blog.abnormal-intelligence.com/posts/mystery/</link>
       <pubDate>Fri, 11 Aug 2023 02:17:41 +0700</pubDate>
-      <guid>http://localhost:1313/posts/mystery/</guid>
+      <guid>http://blog.abnormal-intelligence.com/posts/mystery/</guid>
       <description>My teenage years were dominated by the intensity of the Cold War. At the other end of Europe, there was this strange, unfamiliar place behind the &amp;ldquo;Iron Curtain&amp;rdquo;. With my shortwave receiver I had static-filled access to signals from &amp;ldquo;Behind the Iron Curtain&amp;rdquo;. It was a place of sinister mystery from which I could listen to broadcasts denouncing Imperialists and Fascists as the sun set and atmospheric conditions allowed the signals to penetrate more strongly.</description>
     </item>
     <item>
       <title>Almaty</title>
-      <link>http://localhost:1313/posts/almaty/</link>
+      <link>http://blog.abnormal-intelligence.com/posts/almaty/</link>
       <pubDate>Tue, 01 Aug 2023 20:59:47 +0700</pubDate>
-      <guid>http://localhost:1313/posts/almaty/</guid>
+      <guid>http://blog.abnormal-intelligence.com/posts/almaty/</guid>
       <description>The first day in Kazakhstan turned out not be so much of a disaster once the misunderstanding with our tour guide had been settled.&#xA;We stayed in the Soviet-era Almaty Hotel, slap bang in the middle of the city. For me, after so long in Thailand, it was great to be able to eat an East European breakfast again &amp;hellip; for Almaty is like an enclave of European Russia in the far East.</description>
     </item>
     <item>
       <title>Language Adventures</title>
-      <link>http://localhost:1313/posts/language-adventures/</link>
+      <link>http://blog.abnormal-intelligence.com/posts/language-adventures/</link>
       <pubDate>Sun, 23 Jul 2023 21:26:09 +0700</pubDate>
-      <guid>http://localhost:1313/posts/language-adventures/</guid>
+      <guid>http://blog.abnormal-intelligence.com/posts/language-adventures/</guid>
       <description>We&amp;rsquo;ve just travelled overland across the Former Soviet Union from Almaty in the East to Tbilisi in the West. (Batumi next week, then the ferry to Bulgaria.)&#xA;They say that travellers start of speechless and end up as story-tellers. It always takes me time to process my experiences. As we spend our last few days in the Caucasus Mountains, I am free to rest and reflect on a few things.</description>
     </item>
     <item>
       <title>Kazakhstan Day 1</title>
-      <link>http://localhost:1313/posts/day-1/</link>
+      <link>http://blog.abnormal-intelligence.com/posts/day-1/</link>
       <pubDate>Thu, 29 Jun 2023 23:14:49 +0700</pubDate>
-      <guid>http://localhost:1313/posts/day-1/</guid>
+      <guid>http://blog.abnormal-intelligence.com/posts/day-1/</guid>
       <description>Kazakhstan Day 1 Not a great start! But a fun adventure nonetheless. We had arranged many months in advance to stay with our tour guides, at their house.&#xA;We expected to see them when we arrived at Almaty Airport but there was no sign of them. But how to contact them? Our contact had been over Telegram so I tried to connect to the free Almaty Airport WiFi. It hung on &amp;ldquo;Getting IP Address&amp;rdquo;.</description>
     </item>
     <item>
       <title>Dependency</title>
-      <link>http://localhost:1313/posts/dependency/</link>
+      <link>http://blog.abnormal-intelligence.com/posts/dependency/</link>
       <pubDate>Thu, 08 Jun 2023 20:05:17 +0700</pubDate>
-      <guid>http://localhost:1313/posts/dependency/</guid>
+      <guid>http://blog.abnormal-intelligence.com/posts/dependency/</guid>
       <description>Dependency The Bare Metal life is not about minimalism but it can lead to minimalism. It is more about reducing dependencies.</description>
     </item>
     <item>
       <title>Rules for Photography</title>
-      <link>http://localhost:1313/posts/rules-for-photography/</link>
+      <link>http://blog.abnormal-intelligence.com/posts/rules-for-photography/</link>
       <pubDate>Sun, 04 Jun 2023 13:09:29 +0700</pubDate>
-      <guid>http://localhost:1313/posts/rules-for-photography/</guid>
+      <guid>http://blog.abnormal-intelligence.com/posts/rules-for-photography/</guid>
       <description>My Rules for Photography My Rules for Photography are based on idea that our world is flooded with too many ephemeral images from smart-phones.&#xA;I used to enjoy photography in the olden days of film but as we moved into the digital age I lost interest. Anyway, my wife&amp;rsquo;s composition skills were way better than mine so she became the sole operator of our digital camera. My basic manual SLR got dumped as a piece of junk that was just too bulky to bother with when moving house.</description>
     </item>
     <item>
       <title>God and Religion</title>
-      <link>http://localhost:1313/posts/god/</link>
+      <link>http://blog.abnormal-intelligence.com/posts/god/</link>
       <pubDate>Thu, 25 May 2023 11:05:21 +0700</pubDate>
-      <guid>http://localhost:1313/posts/god/</guid>
+      <guid>http://blog.abnormal-intelligence.com/posts/god/</guid>
       <description>God and/versus Religion There is only one definition of the word &amp;ldquo;God&amp;rdquo; that makes sense to me:&#xA;That which caused the existence of the cosmos, including me.&#xA;I exist The Cosmos exists Something caused the Cosmos and me to exist That Something gets the name &amp;ldquo;God&amp;rdquo; This concept of God radically simplifies this thing we call &amp;ldquo;Religion&amp;rdquo;.&#xA;It is simply about connecting with the Creator.&#xA;The Cosmos could be self-creating but to my mind this is absurd.</description>
     </item>
     <item>
       <title>Tepache</title>
-      <link>http://localhost:1313/posts/tepache/</link>
+      <link>http://blog.abnormal-intelligence.com/posts/tepache/</link>
       <pubDate>Wed, 03 May 2023 15:02:24 +0700</pubDate>
-      <guid>http://localhost:1313/posts/tepache/</guid>
+      <guid>http://blog.abnormal-intelligence.com/posts/tepache/</guid>
       <description>Six times round the square The call to prayer from the nearby mosque wakes us up early most mornings. If we don&amp;rsquo;t go out in time, it gets too hot to walk. 8am is the limit.&#xA;We walk through the Muslim quarter where all the breakfast places are already full with guys filling their tummies before they go off to work. Each one has his bird in its cage. The bird is a member of the family and will be taken to one of the regular birdsong competitions in the town.</description>
     </item>
     <item>
       <title>Why Bare Metal</title>
-      <link>http://localhost:1313/posts/why-bare-metal/</link>
+      <link>http://blog.abnormal-intelligence.com/posts/why-bare-metal/</link>
       <pubDate>Wed, 03 May 2023 12:27:48 +0700</pubDate>
-      <guid>http://localhost:1313/posts/why-bare-metal/</guid>
+      <guid>http://blog.abnormal-intelligence.com/posts/why-bare-metal/</guid>
       <description>Popular Capitalism Popular Capitalism was all the rage in 1982. The markets were being freed from the deadening hand of oppressive market regulations. The most vibrant sector of the new market economy was the consumer tech sector, especially affordable home computers. The two leading tech entrepreneurs in the UK at the time were Sir Clive Sinclar and Alan Sugar of Amstrad. These guys were my teenage heros.&#xA;Mr Shawcross My mother was a founder member of the Over-25 Club, a social group for people who wanted to go on rambles, play boardgames, etc, with like-minded people.</description>
     </item>
     <item>
       <title>Language Learning</title>
-      <link>http://localhost:1313/posts/language-learning/</link>
+      <link>http://blog.abnormal-intelligence.com/posts/language-learning/</link>
       <pubDate>Wed, 03 May 2023 08:40:56 +0700</pubDate>
-      <guid>http://localhost:1313/posts/language-learning/</guid>
+      <guid>http://blog.abnormal-intelligence.com/posts/language-learning/</guid>
       <description>Mr Knight When I started High School, it was the first time that I wasn&amp;rsquo;t sent off to school in a butyric-acid-generating Thrift Shop uniform. Things were definitely improving for us under Maggie Fatcher.&#xA;The French teacher, Mr Knight, was a man in his fifties who was going to seed. He teeth were beyond what Americans think of as British Teeth. He smelled of garlic. He was a chain smoker and his tweed jacket reeked of tobacco and nicotine.</description>
     </item>
     <item>
       <title>Bare Metal Blog</title>
-      <link>http://localhost:1313/posts/bare-metal-blog/</link>
+      <link>http://blog.abnormal-intelligence.com/posts/bare-metal-blog/</link>
       <pubDate>Wed, 03 May 2023 05:41:15 +0700</pubDate>
-      <guid>http://localhost:1313/posts/bare-metal-blog/</guid>
+      <guid>http://blog.abnormal-intelligence.com/posts/bare-metal-blog/</guid>
       <description>This is just a blog My life Stories from my past Some of my thoughts No affiliate links No comments section No spammy email signup thing. If you want to know when I post something new, I will announce it in this Telegram group and this Signal group</description>
     </item>
     <item>
       <title>Anna Karenina</title>
-      <link>http://localhost:1313/posts/anna-karenina/</link>
+      <link>http://blog.abnormal-intelligence.com/posts/anna-karenina/</link>
       <pubDate>Tue, 02 May 2023 08:05:33 +0700</pubDate>
-      <guid>http://localhost:1313/posts/anna-karenina/</guid>
+      <guid>http://blog.abnormal-intelligence.com/posts/anna-karenina/</guid>
       <description>The book on my mother&amp;rsquo;s bedside table I first encountered Anna when I was 17. I saw the book on my mother&amp;rsquo;s bedside table. The title immediately attracted me. Anna Karenina. The name sounded beautiful, Russian and mysterious. I started reading:&#xA;Happy families are all alike; every unhappy family is unhappy in its own way.&#xA;If I&amp;rsquo;m not hooked by the first line of a book, it&amp;rsquo;s usually a sign I will struggle with the rest of the book.</description>
     </item>
     <item>
       <title>Bare Metal Horticulture</title>
-      <link>http://localhost:1313/posts/bare-metal-horticulture/</link>
+      <link>http://blog.abnormal-intelligence.com/posts/bare-metal-horticulture/</link>
       <pubDate>Mon, 01 May 2023 20:38:25 +0700</pubDate>
-      <guid>http://localhost:1313/posts/bare-metal-horticulture/</guid>
+      <guid>http://blog.abnormal-intelligence.com/posts/bare-metal-horticulture/</guid>
       <description>Maggie Fatcher When I was 9, Mr Woolgar, the odd job man who did odd jobs for us, let me stay with him and his family at Butlins in Bognor Regis. I didn&amp;rsquo;t know why I was sent there but it was fun playing in the boats and the monorail. Mr Woolgar put the telly on in the evening for the news about the 1979 General Election. Maggie Fatcher had won.</description>
     </item>
     <item>
       <title>Bare Metal Childhood</title>
-      <link>http://localhost:1313/posts/bare-metal-childhood/</link>
+      <link>http://blog.abnormal-intelligence.com/posts/bare-metal-childhood/</link>
       <pubDate>Mon, 01 May 2023 19:51:55 +0700</pubDate>
-      <guid>http://localhost:1313/posts/bare-metal-childhood/</guid>
+      <guid>http://blog.abnormal-intelligence.com/posts/bare-metal-childhood/</guid>
       <description>Cartage Sussex is famous now because of its troublesome Duchess but the county she is Duchess of is an ancient Saxon kingdom that stubbornly maintained its independence for centuries before falling to the sword of Wessex, and eventually becoming a very English part of England.&#xA;The Isle of Wight, too, was a fiercely independent appendage at the bottom of England that bore the brunt of many French adventures over the centuries.</description>
     </item>
   </channel>

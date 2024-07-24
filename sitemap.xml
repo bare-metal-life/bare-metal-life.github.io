@@ -2,80 +2,83 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/productivity/</loc>
+    <loc>http://blog.abnormal-intelligence.com/</loc>
+    <lastmod>2024-07-24T13:48:10+07:00</lastmod>
+  </url><url>
+    <loc>http://blog.abnormal-intelligence.com/posts/</loc>
+    <lastmod>2024-07-24T13:48:10+07:00</lastmod>
+  </url><url>
+    <loc>http://blog.abnormal-intelligence.com/posts/stochastic-productivity/</loc>
+    <lastmod>2024-07-24T13:48:10+07:00</lastmod>
+  </url><url>
+    <loc>http://blog.abnormal-intelligence.com/posts/productivity/</loc>
     <lastmod>2024-07-23T19:16:55+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-07-23T19:16:55+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-07-23T19:16:55+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/harmony/</loc>
+    <loc>http://blog.abnormal-intelligence.com/posts/harmony/</loc>
     <lastmod>2024-05-14T09:02:58+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/language/</loc>
+    <loc>http://blog.abnormal-intelligence.com/posts/language/</loc>
     <lastmod>2023-12-02T08:12:08+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/bosnia-i-hercegovina/</loc>
+    <loc>http://blog.abnormal-intelligence.com/posts/bosnia-i-hercegovina/</loc>
     <lastmod>2023-08-26T07:11:42+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/albania/</loc>
+    <loc>http://blog.abnormal-intelligence.com/posts/albania/</loc>
     <lastmod>2023-08-17T23:51:07+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/skopje-2/</loc>
+    <loc>http://blog.abnormal-intelligence.com/posts/skopje-2/</loc>
     <lastmod>2023-08-16T00:59:01+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/skopje/</loc>
+    <loc>http://blog.abnormal-intelligence.com/posts/skopje/</loc>
     <lastmod>2023-08-14T02:00:06+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/sofia/</loc>
+    <loc>http://blog.abnormal-intelligence.com/posts/sofia/</loc>
     <lastmod>2023-08-13T01:14:39+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/mystery/</loc>
+    <loc>http://blog.abnormal-intelligence.com/posts/mystery/</loc>
     <lastmod>2023-08-11T02:17:41+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/almaty/</loc>
+    <loc>http://blog.abnormal-intelligence.com/posts/almaty/</loc>
     <lastmod>2023-08-01T20:59:47+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/language-adventures/</loc>
+    <loc>http://blog.abnormal-intelligence.com/posts/language-adventures/</loc>
     <lastmod>2023-07-23T21:26:09+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/day-1/</loc>
+    <loc>http://blog.abnormal-intelligence.com/posts/day-1/</loc>
     <lastmod>2023-06-29T23:14:49+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/dependency/</loc>
+    <loc>http://blog.abnormal-intelligence.com/posts/dependency/</loc>
     <lastmod>2023-06-08T20:05:17+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/rules-for-photography/</loc>
+    <loc>http://blog.abnormal-intelligence.com/posts/rules-for-photography/</loc>
     <lastmod>2023-06-04T13:09:29+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/god/</loc>
+    <loc>http://blog.abnormal-intelligence.com/posts/god/</loc>
     <lastmod>2023-05-25T11:05:21+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/tepache/</loc>
+    <loc>http://blog.abnormal-intelligence.com/posts/tepache/</loc>
     <lastmod>2023-05-03T15:02:24+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/why-bare-metal/</loc>
+    <loc>http://blog.abnormal-intelligence.com/posts/why-bare-metal/</loc>
     <lastmod>2023-05-03T12:27:48+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/language-learning/</loc>
+    <loc>http://blog.abnormal-intelligence.com/posts/language-learning/</loc>
     <lastmod>2023-05-03T08:40:56+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/bare-metal-blog/</loc>
+    <loc>http://blog.abnormal-intelligence.com/posts/bare-metal-blog/</loc>
     <lastmod>2023-05-03T05:41:15+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/anna-karenina/</loc>
+    <loc>http://blog.abnormal-intelligence.com/posts/anna-karenina/</loc>
     <lastmod>2023-05-02T08:05:33+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/bare-metal-horticulture/</loc>
+    <loc>http://blog.abnormal-intelligence.com/posts/bare-metal-horticulture/</loc>
     <lastmod>2023-05-01T20:38:25+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/bare-metal-childhood/</loc>
+    <loc>http://blog.abnormal-intelligence.com/posts/bare-metal-childhood/</loc>
     <lastmod>2023-05-01T19:51:55+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://blog.abnormal-intelligence.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://blog.abnormal-intelligence.com/tags/</loc>
   </url>
 </urlset>
